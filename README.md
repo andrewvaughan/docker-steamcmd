@@ -6,8 +6,7 @@ This container is intended to be extended to provide ease-of-access to the Steam
 
 # Docker Tags
 
-All tags are based off of the underlying [Ubuntu](https://hub.docker.com/_/ubuntu/) system running them.  All servers
-are intended for x64 based systems.
+All tags are based off of the underlying [Ubuntu](https://hub.docker.com/_/ubuntu/) system running them.  All servers are intended for x64 based systems.
 
 * `12.04`, `precise` [(precise/Dockerfile)](https://github.com/andrewvaughan/docker-steamcmd/blob/master/precise/Dockerfile)
 * `14.04`, `trusty` [(trusty/Dockerfile)](https://github.com/andrewvaughan/docker-steamcmd/blob/master/trusty/Dockerfile)
